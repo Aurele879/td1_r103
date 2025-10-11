@@ -1,6 +1,6 @@
 # 🗾 Invasions Mongoles au Japon (XIIIe siècle)
 
-![alt text](assets/fresque_guerre_mongjap.jpg)
+![peinture des invasions mongoles](assets/fresque_guerre_mongjap.jpg)
 
 ## 🧭 Contexte diplomatique et économique
 
@@ -104,13 +104,15 @@ De plus, ce récit a servi au Japon car il a permis de fédérer les Japonais au
 
 ## 🎮 Héritage culturel moderne
 
-![alt text](assets/Invasion-1.webp)  
+![capture d'écran des navires mongols devant Tsushima du jeu "Ghost Of Tsushima"](assets/Invasion-1.webp)  
 Ces événements ont été utilisés par plusieurs ouvrages historiques, mais pas seulement.  
 Dans le monde du jeu vidéo, les invasions mongoles du Japon ont été racontées dans deux titres majeurs : *Ghost of Tsushima* et *Ghost of Yutei*.  
 Les deux jeux vidéo ont apporté un véritable coup de projecteur à ces événements historiques, à tel point qu'ils ont été salués chaleureusement par les critiques et les joueurs.
 
 ### Sources
 
-- https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/  
-- https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon  
-- https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
+
+https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
+
+https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
