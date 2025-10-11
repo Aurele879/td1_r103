@@ -12,7 +12,7 @@ Enfin, la possibilité que ces invasions aient été aussi propulsés par une vo
 
 ## Menaces précedant les invasions
 
-Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura, il demande au pays de lui verser une somme régulièrement, autrement dit, il souhaite vassaliser l'île niponne. Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
+Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura, il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île niponne. Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
 ## La première invasion (1274)
@@ -37,7 +37,40 @@ Les causes ne sont pas très bien établies, cepandant on peut supposer que le r
 
 Une autre thèse existe aussi, elle suppose que cette invasion n'avait qu'un objectif de reconnaissance et non pas de conquête territoriale.
 
-Dans la nuit du 20 novembre, les Mongols finissent par repartir vers la baie, cepandant, une tempête décime le tiers de leurs troupes lors de leur repli ce qui porte un coup majeur sur leur armée.
+Dans la nuit du 20 novembre, les Mongols finissent par repartir vers la baie, cepandant, une tempête décime le tiers de leurs troupes lors de leur repli ce qui porte un coup majeur sur leur armée et une partie de leurs navires.
+
+## Tentaive diplomatique
+
+Suite à la destruction d'une partie de son armée, le Khan se retourne vers la diplomatie, il retente de demander un trubut en 1275 en envoyant un ambassadeur que le Shogunat décapite.
+Il recommence en 1279 mais cet ambassadeur fut tué de la même manière que les autres.
+
+La conclusion logique des ces provocations était claire du point de vue du Japon qui refusait toute intégration directe ou indirecte à l'Empire.
+
+Pour l'empereur Mongol, c'était la goutte de trop, il comprend que le Japon ne se soumettra que par l'acier et le sang.
+
+Cepandant, après la première invasion, les japonnais on comprit la menace et se sont préparés depuis 1274, des fortifications massives furent construies (19km de long pour 3m de haut).
+
+## La seconde invasion (1281)
+
+Cette fois, les mongols mobilisent une armée encore plus massive que la première. Il viennent de vaincre les Song (dynastie chinoise encore en place au sud du pays), cette victoire leur permet donc de requisitionner la marine des chinois. En totalité, les forces mongoles représentent 4400 navires et 100 000 hommes d'origines différentes toutes conquises par l'Empire (Chine, COrée).
+
+Les premières attaque ont lieu le 9 juin à Tsushima et le 14 juin à Iki, par la suite, le 23 juin, une nouvelle attaque est déclanchée la la baie de Hakata.
+Cette fois ci, les mongols divisent leurs forces, une des flottes attaque Honshu et est vaincue à Nagato
+Au même moment, à Hataka, les Japonnais maitrisent leurs défenses et résistent héroiquement aux offenssives de envahisseurs à tel point que les mongols n'arrivent pas à établir de camp sur la plage.
+L'essentiel des combats se déroulent sur les navires mongols.
+Les Japonnais parviennent à oblitérer les guerriers mongols à tel point qu'ils se retirent progressivement des îles de Shiga, Noki, et Iki.
+C'est à ce moment que des navires japonnais de petites tailles lancent des raids sur les chaines de ravitaillement mongoles afin de réduire les capacités d'offensives de ces derniers.
+
+Face à cette situation catastrophique, le Khan mobilise environ 40 000 chinois de plus et fusionne les deux armés pour tenter une offensive en fer de lance localisée afin d'entrer dans le territoire japonnais précisément dans la ville d'Hirado. Les attaques parviennent a avancer et se dirigent vers Takashima. Cette ville est le témoin de combats longs de plusieurs semaines entre des mongols affaiblis par le manque de ravitallement et des japonnais enragés défendant leur île coute que coute. Le 14 aout, un typhon se charge de détruire l'essentiel de la flotte mongole. Ce typhon est non seulement dévastateur mais un casse la cohésion établie par les bâtiments mongols afin de contrer les raids japonnais.
+Cette catastrophe naturelle aura raison de près des 2/3 des forces mongoles.
+Les restes de la flotte n'ont d'autre choix que se retirer vers les côtes chinoises.
+
+
 
 ### Sources
+
 https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
+
+https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
+
+https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
