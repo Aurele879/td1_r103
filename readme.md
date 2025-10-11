@@ -52,21 +52,50 @@ Cepandant, après la première invasion, les japonnais on comprit la menace et s
 
 ## La seconde invasion (1281)
 
-Cette fois, les mongols mobilisent une armée encore plus massive que la première. Il viennent de vaincre les Song (dynastie chinoise encore en place au sud du pays), cette victoire leur permet donc de requisitionner la marine des chinois. En totalité, les forces mongoles représentent 4400 navires et 100 000 hommes d'origines différentes toutes conquises par l'Empire (Chine, COrée).
+Cette fois, les mongols mobilisent une armée encore plus massive que la première. Il viennent de vaincre les Song (dynastie chinoise encore en place au sud du pays), cette victoire leur permet donc de requisitionner la marine des chinois. 
+
+En totalité, les forces mongoles représentent 4400 navires et 100 000 hommes d'origines différentes toutes conquises par l'Empire (Chine, COrée).
 
 Les premières attaque ont lieu le 9 juin à Tsushima et le 14 juin à Iki, par la suite, le 23 juin, une nouvelle attaque est déclanchée la la baie de Hakata.
+
 Cette fois ci, les mongols divisent leurs forces, une des flottes attaque Honshu et est vaincue à Nagato
 Au même moment, à Hataka, les Japonnais maitrisent leurs défenses et résistent héroiquement aux offenssives de envahisseurs à tel point que les mongols n'arrivent pas à établir de camp sur la plage.
+
 L'essentiel des combats se déroulent sur les navires mongols.
 Les Japonnais parviennent à oblitérer les guerriers mongols à tel point qu'ils se retirent progressivement des îles de Shiga, Noki, et Iki.
+
 C'est à ce moment que des navires japonnais de petites tailles lancent des raids sur les chaines de ravitaillement mongoles afin de réduire les capacités d'offensives de ces derniers.
 
-Face à cette situation catastrophique, le Khan mobilise environ 40 000 chinois de plus et fusionne les deux armés pour tenter une offensive en fer de lance localisée afin d'entrer dans le territoire japonnais précisément dans la ville d'Hirado. Les attaques parviennent a avancer et se dirigent vers Takashima. Cette ville est le témoin de combats longs de plusieurs semaines entre des mongols affaiblis par le manque de ravitallement et des japonnais enragés défendant leur île coute que coute. Le 14 aout, un typhon se charge de détruire l'essentiel de la flotte mongole. Ce typhon est non seulement dévastateur mais un casse la cohésion établie par les bâtiments mongols afin de contrer les raids japonnais.
+Face à cette situation catastrophique, le Khan mobilise environ 40 000 chinois de plus et fusionne les deux armés pour tenter une offensive en fer de lance localisée afin d'entrer dans le territoire japonnais précisément dans la ville d'Hirado. Les attaques parviennent a avancer et se dirigent vers Takashima. 
+
+Cette ville est le témoin de combats longs de plusieurs semaines entre des mongols affaiblis par le manque de ravitallement et des japonnais enragés défendant leur île coute que coute. Le 14 aout, un typhon se charge de détruire l'essentiel de la flotte mongole.
+
+Ce typhon est non seulement dévastateur mais un casse la cohésion établie par les bâtiments mongols afin de contrer les raids japonnais.
+
 Cette catastrophe naturelle aura raison de près des 2/3 des forces mongoles.
 Les restes de la flotte n'ont d'autre choix que se retirer vers les côtes chinoises.
 
+## Bilan
+
+Les deux invasions se sont donc soldés par deux échecs, mais par dessus tout, elles ont été le théâtre de nombreuses morts coté mongol, chinois et coréen et d'une défence héroîque de l'Empire du Japon qui a consolidé sa position comme une île indomptable et même bénie des dieux pour le peuple nippon.
+Par dessus tout, cette résistance et cette résilience restera dans l'histoire de l'archipel nippon jusqu'a l'ère moderne et les conflits qui l'accompagne.
+
+| Invasion | Année | Issue     | Pertes       |
+|----------|-------|-----------|--------------|
+| Première | 1274  | Repoussée | 13 000 morts |
+| Deuxième | 1281  | Repoussée | 150 000 morts|
+
+## Légitimité du récit
+
+Il est important de noter que le récit de ces évenement repose sur des sources historiques diverses et ancienes.
+C'est donc la raison pour laquelle il est possible que certains chiffres aient été exagérés ou sous estimés par les sources de l'époque.
+
+De plus, ce récit à servi au Japon car il a permit de fédérer les Japonnais autour d'un début d'identitée nationale, pour la première fois, l'entièreté des forces japonnaises étaient engagés contre un seul ennemi, tout le pays était mobilisé à tel point que la victoire a été vue comme la preuve d'une intervention divine.
 
 
+## Héritage culturel moderne
+
+Ces évenement ont été 
 ### Sources
 
 https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
