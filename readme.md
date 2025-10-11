@@ -11,8 +11,9 @@ Enfin, la possibilité que ces invasions aient été aussi propulsés par une vo
 
 ## ✉️Menaces précedant les invasions
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sasa_Rindo.svg/langfr-1024px-Sasa_Rindo.svg.png){width=200px}
-Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura, il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île niponne. Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
+Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura,
+il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île niponne.
+Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
 ## ⚓La première invasion (1274)
@@ -113,4 +114,5 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
