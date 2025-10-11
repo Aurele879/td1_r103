@@ -3,7 +3,6 @@
 ![peinture des invasions mongoles](assets/fresque_guerre_mongjap.jpg)
 
 ## 🧭 Contexte diplomatique et économique
-
 En 1274, l'Empire mongol vient d'intégrer les terres chinoises du sud et la Corée dans son immense territoire.  
 Le Khan (titre de l'empereur mongol) souhaite maintenant s'attaquer au Japon, dernier archipel important de la région. Les raisons pour lesquelles le Khan s'intéressait au Japon sont incomplètement documentées, mais des suppositions sont émises par les historiens.
 
@@ -12,14 +11,12 @@ De plus, le Japon était un partenaire commercial de la partie restante de la Ch
 Enfin, la possibilité que ces invasions aient été aussi motivées par une volonté de prestige n'est pas à exclure.
 
 ## ✉️ Menaces précédant les invasions
-
 Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon, alors dirigé par le shogunat Kamakura.  
 Il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île nipponne.  
 Cependant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan, ce qui n'a pas manqué d'accroître la tension entre les deux empires.  
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
 ## ⚓ La première invasion (1274)
-
 En novembre 1274, la première invasion débute. Le Khan mobilise une flotte d'environ 800 bâtiments en Corée afin de préparer l'invasion navale de l'île.
 
 En tout, cette monstrueuse armée comptait entre 15 000 et 40 000 hommes, et était composée non seulement de soldats mongols mais aussi de conscrits des territoires conquis par l'empire, comme la Chine ou la Corée.  
@@ -43,7 +40,6 @@ Une autre thèse existe également : elle suppose que cette invasion n'avait qu'
 Dans la nuit du 20 novembre, les Mongols finissent par repartir vers la baie. Cependant, une tempête décime le tiers de leurs troupes lors de leur repli, ce qui porte un coup majeur sur leur armée et une partie de leurs navires.
 
 ## 🤝 Tentative diplomatique
-
 Suite à la destruction d'une partie de son armée, le Khan se tourne vers la diplomatie. Il retente de demander un tribut en 1275 en envoyant un ambassadeur, que le shogunat décapite.  
 Il recommence en 1279, mais cet ambassadeur est tué de la même manière que les autres.
 
@@ -79,7 +75,6 @@ Cette catastrophe naturelle anéantit près des deux tiers des forces mongoles.
 Les restes de la flotte n'ont d'autre choix que de se retirer vers les côtes chinoises.
 
 ## 📜 Bilan
-
 Les deux invasions se sont donc soldées par deux échecs. Mais par-dessus tout, elles ont été le théâtre de nombreuses morts côté mongol, chinois et coréen, et d'une défense héroïque de l'Empire du Japon, qui a consolidé sa position comme une île indomptable et même bénie des dieux pour le peuple nippon.  
 Par-dessus tout, cette résistance et cette résilience resteront dans l'histoire de l'archipel nippon jusqu'à l'ère moderne et les conflits qui l'accompagnent.
 
@@ -96,24 +91,22 @@ Par-dessus tout, cette résistance et cette résilience resteront dans l'histoir
 * Renforcement de la légitimité politique du shogunat
 
 ## 📖 Légitimité du récit
-
 Il est important de noter que le récit de ces événements repose sur des sources historiques diverses et anciennes.  
 C'est donc la raison pour laquelle il est possible que certains chiffres aient été exagérés ou sous-estimés par les sources de l'époque.
 
 De plus, ce récit a servi au Japon car il a permis de fédérer les Japonais autour d'un début d'identité nationale. Pour la première fois, l'entièreté des forces japonaises étaient engagées contre un seul ennemi, tout le pays était mobilisé à tel point que la victoire a été vue comme la preuve d'une intervention divine.
 
 ## 🎮 Héritage culturel moderne
-
 ![capture d'écran des navires mongols devant Tsushima du jeu "Ghost Of Tsushima"](assets/Invasion-1.webp)  
 Ces événements ont été utilisés par plusieurs ouvrages historiques, mais pas seulement.  
 Dans le monde du jeu vidéo, les invasions mongoles du Japon ont été racontées dans un titre majeur : *Ghost of Tsushima*.  
-Les deux jeux vidéo ont apporté un véritable coup de projecteur à ces événements historiques, à tel point qu'ils ont été salués chaleureusement par les critiques et les joueurs.
+Ce jeu vidéo a apporté un véritable coup de projecteur à ces événements historiques, à tel point qu'il a été salué chaleureusement par les critiques et les joueurs.
 
 ### Sources
-
 https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
 
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
