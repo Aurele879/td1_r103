@@ -85,6 +85,13 @@ Par dessus tout, cette résistance et cette résilience restera dans l'histoire 
 | Première | 1274  | Repoussée | 13 000 morts |
 | Deuxième | 1281  | Repoussée | 150 000 morts|
 
+**En bref le Japon gagne sur les points suivants :** 
+* Pertes bien moins importantes que l'ennemi
+* Presitige militaire
+* Mythe d'un peuple choisi des dieux
+* Valeurs de résistance et de courage
+* Renforcement de la légitimité politique du Shogunat
+
 ## 📖Légitimité du récit
 
 Il est important de noter que le récit de ces évenement repose sur des sources historiques diverses et ancienes.
@@ -98,6 +105,7 @@ De plus, ce récit à servi au Japon car il a permit de fédérer les Japonnais 
 Ces évenement ont été utilisés par plusieurs ouvrages historiques mais pas seulement.
 Dans le monde du jeu vidéo, les inasions mongoles du japon ont été racontés dans deux titres majeurs : Ghost Of Tsushima et Ghost Of Yutei.
 Les deux jeux vidéo ont apporté un vériatable coup de projecteur à ces évennements historiques à tel point qu'ils ont été salués chaleureusement ar les critiques et joueurs.
+
 ### Sources
 
 https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
