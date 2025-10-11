@@ -1,8 +1,8 @@
-# Invasions Mongoles Au Japon (XIIIe siècle) 
+# 🗾Invasions Mongoles Au Japon (XIIIe siècle) 
 
 ![alt text](assets/fresque_guerre_mongjap.jpg)
 
-## Contexte diplomatique et économique
+## 🧭Contexte diplomatique et économique
 En 1274, l'Empire Mongol vient d'intégrer les terres Chinoises du sud et la Corée dans leur immense territoire.
 Le Khan (titre de l'empreur mongol), souhaite maintenant s'attaquer au japon, dernier archipel important de la région. Les raisons pour lesquelles le Khan est intéréssé par le Japon sont incomplètement documentés mais des suppositions sont émises par les historiens.
 
@@ -10,12 +10,12 @@ D'abord, le Japon était réputé pour être une "terre d'or" d'après les dires
 De plus le Japon était un partenaire commercial de la partie restante de la Chine au sud, ce qui posait problème aux mongols.
 Enfin, la possibilité que ces invasions aient été aussi propulsés par une volonté de prestige ne sont pas non plus à exclure.
 
-## Menaces précedant les invasions
+## ✉️Menaces précedant les invasions
 
 Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura, il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île niponne. Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
-## La première invasion (1274)
+## ⚓La première invasion (1274)
 
 En novembre 1274, la première invasion débute, le Khan mobilise une flotte d'environ 800 batiments en corée afin de préparer l'invasion navale de l'île.
 
@@ -39,7 +39,7 @@ Une autre thèse existe aussi, elle suppose que cette invasion n'avait qu'un obj
 
 Dans la nuit du 20 novembre, les Mongols finissent par repartir vers la baie, cepandant, une tempête décime le tiers de leurs troupes lors de leur repli ce qui porte un coup majeur sur leur armée et une partie de leurs navires.
 
-## Tentaive diplomatique
+## 🤝Tentaive diplomatique
 
 Suite à la destruction d'une partie de son armée, le Khan se retourne vers la diplomatie, il retente de demander un trubut en 1275 en envoyant un ambassadeur que le Shogunat décapite.
 Il recommence en 1279 mais cet ambassadeur fut tué de la même manière que les autres.
@@ -50,7 +50,7 @@ Pour l'empereur Mongol, c'était la goutte de trop, il comprend que le Japon ne 
 
 Cepandant, après la première invasion, les japonnais on comprit la menace et se sont préparés depuis 1274, des fortifications massives furent construies (19km de long pour 3m de haut).
 
-## La seconde invasion (1281)
+## ⚔️La seconde invasion (1281)
 
 Cette fois, les mongols mobilisent une armée encore plus massive que la première. Il viennent de vaincre les Song (dynastie chinoise encore en place au sud du pays), cette victoire leur permet donc de requisitionner la marine des chinois. 
 
@@ -75,7 +75,7 @@ Ce typhon est non seulement dévastateur mais un casse la cohésion établie par
 Cette catastrophe naturelle aura raison de près des 2/3 des forces mongoles.
 Les restes de la flotte n'ont d'autre choix que se retirer vers les côtes chinoises.
 
-## Bilan
+## 📜Bilan
 
 Les deux invasions se sont donc soldés par deux échecs, mais par dessus tout, elles ont été le théâtre de nombreuses morts coté mongol, chinois et coréen et d'une défence héroîque de l'Empire du Japon qui a consolidé sa position comme une île indomptable et même bénie des dieux pour le peuple nippon.
 Par dessus tout, cette résistance et cette résilience restera dans l'histoire de l'archipel nippon jusqu'a l'ère moderne et les conflits qui l'accompagne.
@@ -85,7 +85,7 @@ Par dessus tout, cette résistance et cette résilience restera dans l'histoire 
 | Première | 1274  | Repoussée | 13 000 morts |
 | Deuxième | 1281  | Repoussée | 150 000 morts|
 
-## Légitimité du récit
+## 📖Légitimité du récit
 
 Il est important de noter que le récit de ces évenement repose sur des sources historiques diverses et ancienes.
 C'est donc la raison pour laquelle il est possible que certains chiffres aient été exagérés ou sous estimés par les sources de l'époque.
@@ -93,9 +93,11 @@ C'est donc la raison pour laquelle il est possible que certains chiffres aient �
 De plus, ce récit à servi au Japon car il a permit de fédérer les Japonnais autour d'un début d'identitée nationale, pour la première fois, l'entièreté des forces japonnaises étaient engagés contre un seul ennemi, tout le pays était mobilisé à tel point que la victoire a été vue comme la preuve d'une intervention divine.
 
 
-## Héritage culturel moderne
-
-Ces évenement ont été 
+## 🎮Héritage culturel moderne
+![alt text](assets/Invasion-1.webp)
+Ces évenement ont été utilisés par plusieurs ouvrages historiques mais pas seulement.
+Dans le monde du jeu vidéo, les inasions mongoles du japon ont été racontés dans deux titres majeurs : Ghost Of Tsushima et Ghost Of Yutei.
+Les deux jeux vidéo ont apporté un vériatable coup de projecteur à ces évennements historiques à tel point qu'ils ont été salués chaleureusement ar les critiques et joueurs.
 ### Sources
 
 https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-1274-et-1281/
