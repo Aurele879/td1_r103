@@ -1,17 +1,17 @@
 # 🗾Invasions Mongoles Au Japon (XIIIe siècle) 
 
 ![alt text](assets/fresque_guerre_mongjap.jpg)
-
 ## 🧭Contexte diplomatique et économique
-En 1274, l'Empire Mongol vient d'intégrer les terres Chinoises du sud et la Corée dans leur immense territoire.
+En 1274, l'Empire Mongol vient d'intégrer les terres Chinoises du sud et la Corée dans son immense territoire.
 Le Khan (titre de l'empreur mongol), souhaite maintenant s'attaquer au japon, dernier archipel important de la région. Les raisons pour lesquelles le Khan est intéréssé par le Japon sont incomplètement documentés mais des suppositions sont émises par les historiens.
 
-D'abord, le Japon était réputé pour être une "terre d'or" d'après les dires du voyoyeur venitien Marco Polo.
+D'abord, le Japon était réputé pour être une "terre d'or" d'après les dires du voyoyeur venitien Marco Polo, bien que cette affirmation tienne plus de la légende que d'une vraie information.
 De plus le Japon était un partenaire commercial de la partie restante de la Chine au sud, ce qui posait problème aux mongols.
 Enfin, la possibilité que ces invasions aient été aussi propulsés par une volonté de prestige ne sont pas non plus à exclure.
 
 ## ✉️Menaces précedant les invasions
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sasa_Rindo.svg/langfr-1024px-Sasa_Rindo.svg.png){width=200px}
 Avant la première invasion de 1274, le Khan tente en vain de soumettre le Japon alors dirigé par le shogunat Kamakura, il demande au pays de lui verser une somme régulièrement (tribut), autrement dit, il souhaite vassaliser l'île niponne. Cepandant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan ce qui n'a pas manqué d'accroite la tension entre les deux empires.
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
@@ -113,3 +113,4 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
