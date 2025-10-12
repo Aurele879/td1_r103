@@ -5,7 +5,7 @@
 2. [Menaces précédant les invasions](#️-menaces-précédant-les-invasions)
 3. [La première invasion (1274)](#-la-première-invasion-1274)
 4. [Tentative diplomatique](#-tentative-diplomatique)
-5. [La seconde invasion (1281)](#-la-seconde-invasion-1281)
+5. [La seconde invasion (1281)](#la-seconde-invasion-1281)
 6. [Bilan](#-bilan)
 7. [Légitimité du récit](#-légitimité-du-récit)
 8. [Héritage culturel moderne](#-héritage-culturel-moderne)
@@ -118,5 +118,6 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
 
