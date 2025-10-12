@@ -108,7 +108,7 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
-.
+
 
 
 
