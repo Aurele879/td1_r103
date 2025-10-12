@@ -3,10 +3,10 @@
 ![peinture des invasions mongoles](assets/fresque_guerre_mongjap.jpg)
 
 ## 🧭 Contexte diplomatique et économique
-En 1274, l'Empire mongol vient d'intégrer les terres chinoises du sud et la Corée dans son immense territoire.  
+En 1274, l'[Empire Mongol](https://fr.wikipedia.org/wiki/Empire_mongol) vient d'intégrer les terres chinoises du sud et la Corée dans son immense territoire.  
 Le Khan (titre de l'empereur mongol) souhaite maintenant s'attaquer au Japon, dernier archipel important de la région. Les raisons pour lesquelles le Khan s'intéressait au Japon sont incomplètement documentées, mais des suppositions sont émises par les historiens.
 
-D'abord, le Japon était réputé pour être une "terre d'or" d'après les dires du voyageur vénitien Marco Polo, bien que cette affirmation relève davantage de la légende que d'une information fiable.  
+D'abord, le [Japon](https://fr.wikipedia.org/wiki/Shogunat_de_Kamakura) était réputé pour être une "terre d'or" d'après les dires du voyageur vénitien Marco Polo, bien que cette affirmation relève davantage de la légende que d'une information fiable.  
 De plus, le Japon était un partenaire commercial de la partie restante de la Chine au sud, ce qui posait problème aux Mongols.  
 Enfin, la possibilité que ces invasions aient été aussi motivées par une volonté de prestige n'est pas à exclure.
 
@@ -108,6 +108,7 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
 
 
