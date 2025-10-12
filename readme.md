@@ -26,7 +26,7 @@ Il demande au pays de lui verser une somme régulièrement (tribut), autrement d
 Cependant, le shogunat refusait de donner la moindre réponse aux injonctions du Khan, ce qui n'a pas manqué d'accroître la tension entre les deux empires.  
 Du point de vue du shogunat Kamakura, le Japon était en capacité de repousser une invasion, ce qui renforçait la position du pays.
 
-## ⚓ La première invasion (1274)
+## ⚓ La première invasion de 1274
 En novembre 1274, la première invasion débute. Le Khan mobilise une flotte d'environ 800 bâtiments en Corée afin de préparer l'invasion navale de l'île.
 
 En tout, cette monstrueuse armée comptait entre 15 000 et 40 000 hommes, et était composée non seulement de soldats mongols mais aussi de conscrits des territoires conquis par l'empire, comme la Chine ou la Corée.  
@@ -59,7 +59,7 @@ Pour l'empereur mongol, c'était la goutte de trop : il comprend que le Japon ne
 
 Cependant, après la première invasion, les Japonais ont compris la menace et se sont préparés depuis 1274. Des fortifications massives furent construites (19 km de long pour 3 m de haut).
 
-## ⚔️ La seconde invasion (1281)
+## ⚔️ La seconde invasion de 1281
 
 Cette fois, les Mongols mobilisent une armée encore plus massive que la première. Ils viennent de vaincre les Song (dynastie chinoise encore en place au sud du pays), cette victoire leur permet donc de réquisitionner la marine des Chinois.
 
@@ -118,6 +118,7 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
 
 
