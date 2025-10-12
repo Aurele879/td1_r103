@@ -99,7 +99,7 @@ De plus, ce récit a servi au Japon car il a permis de fédérer les Japonais au
 ## 🎮 Héritage culturel moderne
 ![capture d'écran des navires mongols devant Tsushima du jeu "Ghost Of Tsushima"](assets/Invasion-1.webp)  
 Ces événements ont été utilisés par plusieurs ouvrages historiques, mais pas seulement.  
-Dans le monde du jeu vidéo, les invasions mongoles du Japon ont été racontées dans un titre majeur : *Ghost of Tsushima*.  
+Dans le monde du jeu vidéo, les invasions mongoles du Japon ont été racontées dans un titre majeur : [*Ghost of Tsushima*](https://ghostfranchise.fandom.com/wiki/Ghost_of_Tsushima).  
 Ce jeu vidéo a apporté un véritable coup de projecteur à ces événements historiques, à tel point qu'il a été salué chaleureusement par les critiques et les joueurs.
 
 ### Sources
@@ -108,5 +108,6 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
 
