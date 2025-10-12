@@ -1,14 +1,26 @@
 # 🗾 Invasions Mongoles au Japon (XIIIe siècle)
 
-1. [Contexte diplomatique et économique](## 🧭 Contexte diplomatique et économique)
-2. [Menaces précédant les invasions](## ✉️ Menaces précédant les invasions)
-3. [La première invasion (1274)](## ⚓ La première invasion (1274))
+1. [Contexte diplomatique et économique](# 🧭 Contexte diplomatique et économique)
+2. [Menaces précédant les invasions](# ✉️ Menaces précédant les invasions)
+3. [La première invasion (1274)](# ⚓ La première invasion (1274))
 4. [Tentative diplomatique](## 🤝 Tentative diplomatique)
-5. [La seconde invasion (1281)](## ⚔️ La seconde invasion (1281))
-5. [Bilan](## 📜 Bilan)
-5. [Légitimité du récit](## 📖 Légitimité du récit)
-5. [Héritage culturel moderne](## 🎮 Héritage culturel moderne)
+5. [La seconde invasion (1281)](# ⚔️ La seconde invasion (1281))
+5. [Bilan](# 📜 Bilan)
+5. [Légitimité du récit](# 📖 Légitimité du récit)
+5. [Héritage culturel moderne](# 🎮 Héritage culturel moderne)
 
+# Table des matières
+
+1. [Introduction](#introduction)  
+2. [Contexte et objectifs](#contexte-et-objectifs)  
+3. [Méthodologie](#méthodologie)  
+   1. [Sources et données](#sources-et-données)  
+   2. [Outils utilisés](#outils-utilisés)  
+4. [Analyse](#analyse)  
+   1. [Résultats principaux](#résultats-principaux)  
+   2. [Discussion](#discussion)  
+5. [Conclusion](#conclusion)  
+6. [Bibliographie](#bibliographie)
 
 ![peinture des invasions mongoles](assets/fresque_guerre_mongjap.jpg)
 
@@ -118,6 +130,7 @@ https://www.worldhistory.org/trans/fr/2-1415/les-invasions-mongoles-du-japon-127
 https://fr.wikipedia.org/wiki/Invasions_mongoles_du_Japon
 
 https://nouvelles.umontreal.ca/article/2024/08/30/l-enigme-des-invasions-mongoles-au-japon
+
 
 
 
